@@ -14,10 +14,10 @@
 <br/>
 
 <a href="https://github.com/jhll1124/jhll1124">
-<img align="right" width="450px" src="https://github.com/jhll1124/metrics/raw/main/merged-stats.svg" alt="镜花落璃's GitHub stats" />
+<img align="right" width="450px" src="https://github.com/jhll1124/metrics/raw/main/github-metrics.svg" alt="my GitHub details" />
 </a>
 
-### 点击订阅
+### Hi~
 
 <br />
 
