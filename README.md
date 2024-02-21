@@ -13,9 +13,7 @@
 
 <br/>
 
-<a href="https://github.com/jhll1124/jhll1124">
-<img align="right" width="450px" src="https://github.com/jhll1124/metrics/raw/main/github-metrics.svg" alt="my GitHub details" />
-</a>
+
 
 ### Hi~
 
@@ -33,5 +31,5 @@
 
 <details>
   <summary>查看更多</summary>
-  <a href="https://github.com/jhll1124/jhll1124/metrics"><img src="https://github.com/jhll1124/jhll1124/metrics/raw/main/github-metrics.svg" alt="metrics" width="100%" /></a>
+  <a href="https://github.com/jhll1124/jhll1124"><img src="https://github.com/jhll1124/metrics/raw/main/github-metrics.svg" alt="my GitHub details" width="100%" /></a>
 </details>
