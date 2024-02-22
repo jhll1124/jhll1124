@@ -13,8 +13,8 @@
 
 <br/>
 
-<a href="https://github.com/jhll1124">
-<img align="right" width="250px" src="https://avatars.githubusercontent.com/u/109937757?v=4" />
+<a href="https://fuxuan.pages.dev">
+<img align="right" width="200px" src="https://fuxuan.pages.dev/liuying.png" />
 
 ### Hi~
 
