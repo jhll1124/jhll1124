@@ -5,6 +5,7 @@
 ✨ 镜中花影散，落璃映月圆。✨ 
 
 [![Style](https://img.shields.io/badge/Style-镜花落璃-8e48ff)](https://github.com/jhll1124)
+[![Love](https://img.shields.io/badge/Love-100%25!-ff69b4)](https://jhll.pages.dev/)
 ![Stars](https://img.shields.io/github/stars/jhll1124?affiliations=OWNER%2CCOLLABORATOR&label=Stars)
 [![Profile Views](https://komarev.com/ghpvc/?username=jhll1124&color=green)](https://github.com/jhll1124)
 
